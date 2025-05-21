@@ -12,9 +12,9 @@ public enum Region
     ME1 = 8,
     NA1 = 9,
     OC1 = 10,
-    RU = 9,
-    SG2 = 10,
-    TR1 = 11,
-    TW2 = 12,
-    VN2 = 13
+    RU = 11,
+    SG2 = 12,
+    TR1 = 13,
+    TW2 = 14,
+    VN2 = 15
 }
