@@ -2,6 +2,7 @@
 
 public enum Division
 {
+    NONE = 0,
     I = 1,
     II = 2,
     III = 3,
